@@ -1,0 +1,6 @@
+# Build folder
+build/
+# Bin folder
+bin/*
+# Include data.dat (data zipped file)
+!bin/data.dat
